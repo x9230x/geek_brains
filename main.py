@@ -19,3 +19,4 @@ def convert_time(duration: int) -> str:
 duration = 120120
 result = convert_time(duration)
 print(result)
+#вроде бы получилось, извините что так поздно
